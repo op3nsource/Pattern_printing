@@ -15,3 +15,7 @@ _What we have done here is just a basic step towards learning about git and gith
 ## How to Contribute
  
 **Will be updated soon!!!**
+
+## Connect with us
+
+[![alt text][https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png]][https://t.me/c_channels]
