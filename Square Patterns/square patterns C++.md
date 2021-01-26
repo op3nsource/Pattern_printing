@@ -1,4 +1,4 @@
-# Can you C++ode these Square patterns with C++
+# Can you Code these Square patterns with C++
 
 
 ### Pattern 1
@@ -14,7 +14,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -36,7 +36,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -58,7 +58,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -80,7 +80,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -103,7 +103,7 @@ input : 6
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -127,7 +127,7 @@ input : 7
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -149,7 +149,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -171,7 +171,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -193,7 +193,7 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
@@ -221,7 +221,7 @@ input : 11
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_aC++C++ount_url)
+Solution by : [@your_name](github_account_url)
 
 ```C++
 // your solution here
