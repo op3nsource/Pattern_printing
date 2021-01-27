@@ -17,7 +17,11 @@ _What we have done here is just a basic step towards learning about git and gith
 
 ## How to Contribute
  
-**Will be updated soon!!!**
+**Here are some articles that we find are one of the best to know about open source contribution:-**
+
+> [**Data School Article on Step-by-step guide to contributing on GitHub**](https://www.dataschool.io/how-to-contribute-on-github/)
+
+> [**Medium.com article on Your first open source contribution: a step-by-step technical guide**](https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6)
 
 ## Connect with us
 
