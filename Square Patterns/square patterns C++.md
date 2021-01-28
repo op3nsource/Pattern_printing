@@ -14,10 +14,23 @@ input : 5
 
 <details> <summary>Show Solution</summary>
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
 
 ```C++
-// your solution here
+#include <stdio.h>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++) //loop for number of rows
+    {
+        for (j = 0; j < 5; j++) //loop for number of columns
+        {
+            cout<<"* "; //printing character
+        }
+        cout<<"\n"; //newline for every new row
+    }
+}
 ```
 </details>
 
@@ -36,10 +49,30 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++) //loop for number of rows
+    {
+        for (j = 0; j < 5; j++) //loop for number of columns
+        {
+            if (j == i)  //condition for printing * character or blank space
+            {
+                cout<<"* ";
+            }
+            else
+            {
+                cout<<" ";
+            }
+        }
+        cout<<"\n"; //newline for every row
+    }
+}
 ```
 </details>
 
@@ -58,10 +91,31 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
+
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++)
+    {
+        for (j = 0; j < 5; j++)
+        {
+            if (i + j == 4)
+            {
+                cout << "* ";
+            }
+            else
+            {
+                cout << " ";
+            }
+        }
+        cout << "\n";
+    }
+}
 ```
 </details>
 
@@ -80,10 +134,30 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++)
+    {
+        for (j = 0; j < 5; j++)
+        {
+            if (i + j == 4 || i == j)
+            {
+                cout << "*";
+            }
+            else
+            {
+                cout << " ";
+            }
+        }
+        cout << "\n";
+    }
+}
 ```
 </details>
 
@@ -103,10 +177,32 @@ input : 6
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
+
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 6; i++)
+    {
+        for (j = 0; j < 6; j++)
+        {
+            if (i == 0 || i == 5 || j == 0 || j == 5)
+            {
+                cout << "* ";
+            }
+            else
+            {
+                cout << "  ";
+            }
+        }
+        cout << "\n";
+    }
+}
+
 ```
 </details>
 
@@ -127,10 +223,31 @@ input : 7
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
+
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 7; i++)
+    {
+        for (j = 0; j < 7; j++)
+        {
+            if (i == 0 || i == 6 || j == 0 || j == 6 || i + j == 6 || i == j)
+            {
+                cout << " * ";
+            }
+            else
+            {
+                cout << "   ";
+            }
+        }
+        cout << "\n";
+    }
+}
 ```
 </details>
 
@@ -149,10 +266,30 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++)
+    {
+        for (j = 0; j < 5; j++)
+        {
+            if (i == j)
+            {
+                cout << " * ";
+            }
+            else
+            {
+                cout << " @ ";
+            }
+        }
+        cout << "\n";
+    }
+}
 ```
 </details>
 
@@ -171,10 +308,30 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++)
+    {
+        for (j = 0; j < 5; j++)
+        {
+            if (i + j <= 4)
+            {
+                cout << " * ";
+            }
+            else
+            {
+                cout << " @ ";
+            }
+        }
+        cout << "\n";
+    }
+}
 ```
 </details>
 
@@ -193,10 +350,30 @@ input : 5
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@code-withAshish](https://github.com/code-withAshish)
 
 ```C++
-// your solution here
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i, j;
+    for (i = 0; i < 5; i++)
+    {
+        for (j = 0; j < 5; j++)
+        {
+            if (i == 0 || i == 4 || j == 0 || j == 4 || i == 2 && j == 2)
+            {
+                cout << " * ";
+            }
+            else
+            {
+                cout << "   ";
+            }
+        }
+        cout << "\n";
+    }
+}
 ```
 </details>
 
