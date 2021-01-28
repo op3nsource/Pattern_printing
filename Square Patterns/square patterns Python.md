@@ -14,14 +14,10 @@ input : 5
 
 <details> <summary>Show Solution</summary>
 
-Solution by : [@pyGuru](https://github.com/pyGuru123)
+Solution by : [@your_name](github_account_url)
 
 ```python
-n = 5
-for i in range(n):
-  for j in range(n):
-    print('*', end=' ')
-  print()
+# your solution here
 ```
 </details>
 
