@@ -14,10 +14,13 @@ input : 5
 
 <details> <summary>Show Solution</summary>
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@Sanky-coder](https://github.com/Sanky-coder)
 
 ```python
-# your solution here
+for i in range(1,6):
+    for j in range(1,i+1):
+        print("*",end="")
+    print("\n")
 ```
 </details>
 
