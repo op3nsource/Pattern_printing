@@ -107,10 +107,19 @@ input : 6
 
 <details> <summary>Show Solution</summary>  
 
-Solution by : [@your_name](github_account_url)
+Solution by : [@Jitenra_malipeddi](https://github.com/jitendramalipeddi)
 
 ```python
-# your solution here
+a=5
+b=5
+for i in range(1, a+1) :
+    for j in range(1, b+1) :
+        if (i == 1 or i == a or j == 1 or j == b) :
+            print("*", end=" ")
+        else :
+            print(" ", end=" ")
+    print()
+
 ```
 </details>
 
